@@ -1,0 +1,80 @@
+{
+  "Simple": {
+    "Defense": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Strength": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Dexterity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Critical_Chance": {
+      "Value": 1,
+      "Temp": 0
+    },
+
+
+    "Velocity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Reach": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Cooldown ": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Jump_Force": {
+      "Value": 1,
+      "Temp": 0
+    },
+
+
+    "Wood_Affinity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Water_Affinity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Fire_Affinity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Earth_Affinity": {
+      "Value": 1,
+      "Temp": 0
+    },
+    "Metal_Affinity": {
+      "Value": 1,
+      "Temp": 0
+    }
+  },
+  "Maxable": {
+    "Health": {
+      "Value": 5,
+      "Temp": 0,
+      "State": 4,
+      "Max": 5
+    },
+    "Stamina": {
+      "Value": 5,
+      "Temp": 0,
+      "State": 4,
+      "Max": 5
+    },
+    "Mana": {
+      "Value": 5,
+      "Temp": 0,
+      "State": 4,
+      "Max": 5
+    }
+  }
+}
