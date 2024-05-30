@@ -1,0 +1,6 @@
+[submodule "Assets/Editor/_Common"]
+	path = Assets/Editor/_Common
+	url = https://github.com/laezekiel/Scripts.git
+[submodule "Assets/_Common"]
+	path = Assets/_Common
+	url = https://github.com/laezekiel/Scripts.git
